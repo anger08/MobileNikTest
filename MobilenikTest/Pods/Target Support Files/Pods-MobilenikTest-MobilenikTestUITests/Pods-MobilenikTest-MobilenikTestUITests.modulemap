@@ -1,0 +1,6 @@
+framework module Pods_MobilenikTest_MobilenikTestUITests {
+  umbrella header "Pods-MobilenikTest-MobilenikTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
